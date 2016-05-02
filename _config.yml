@@ -1,0 +1,28 @@
+name: Endorfinder
+favicon: null
+layout_spectrum: 0.6258178267162293
+typography_spectrum: 0.5528153667692095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3485294550191611
+  lightness: 0.07589156203903258
+  saturation: 0.247600985923782
+  rhythmicContrast: 0.052553252549842
+purpose: []
