@@ -2,27 +2,34 @@
     <channel>
         <title><![CDATA[Tratamientos de Neurofelicidad]]></title>
         <description><![CDATA[Tratamientos de Neurofelicidad]]></description>
-        <link>http://endorfinder.com/</link>
+        <link>https://thegrid.ai/endorfinder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:26:22 GMT</lastBuildDate>
-        <atom:link href="http://endorfinder.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 13:33:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/endorfinder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tratamientos]]></title>
+            <description><![CDATA[<article><h1>Tratamientos</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/endorfinder/tratamientos/index.html</link>
+            <guid isPermaLink="false">c7db8ca0-b9ee-4de7-b735-c0a76cc07f3b</guid>
+            <pubDate>Mon, 02 May 2016 13:33:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Por qué?]]></title>
             <description><![CDATA[<article><h1>¿Por qué?</h1><p>Porque queremos recaudar fondos para nuestro proyecto de mejora de la educación infantil en el Archipiélago de las Quirimbas.</p></article>]]></description>
-            <link>http://endorfinder.com/por-que/index.html</link>
+            <link>https://thegrid.ai/endorfinder/por-que/index.html</link>
             <guid isPermaLink="false">007e7e7a-6d30-41ea-9467-548d0780e273</guid>
             <pubDate>Mon, 02 May 2016 13:26:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ ]]></title>
-            <link>http://endorfinder.com/5cb39084-9dde-4b8c-98f1-d705e317239e/index.html</link>
+            <link>https://thegrid.ai/endorfinder/5cb39084-9dde-4b8c-98f1-d705e317239e/index.html</link>
             <guid isPermaLink="false">5cb39084-9dde-4b8c-98f1-d705e317239e</guid>
             <pubDate>Mon, 02 May 2016 13:25:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Qué es Endorfinder?]]></title>
             <description><![CDATA[<article><h1>¿Qué es Endorfinder?</h1><p>Endorfinder es una Neuroconsultora especializada en Tratamientos de Neurofelicidad, inspirados en la felicidad de los Kimwani (habitantes de las islas quirimbas) y sustentados en el estudio de la Neurociencia, Neuromindfulness, tecnologías de Realidad Virtual, computación de emociones…</p></article>]]></description>
-            <link>http://endorfinder.com/que-es-endorfinder/index.html</link>
+            <link>https://thegrid.ai/endorfinder/que-es-endorfinder/index.html</link>
             <guid isPermaLink="false">65fba6e0-ddb8-4cb9-8c0d-ad046dd29612</guid>
             <pubDate>Mon, 02 May 2016 13:14:17 GMT</pubDate>
         </item>
